@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Good Item 1",
+    "desc": "A Very good Item",
+    "price": "275",
+    "status": "Còn hàng"
+  },
+  {
+    "id": 2,
+    "name": "Good Item 2",
+    "desc": "A Very good Item",
+    "price": "199",
+    "status": "Còn hàng"
+  },
+  {
+    "id": 3,
+    "name": "Good Item 3",
+    "desc": "A Very good Item",
+    "price": "10099",
+    "status": "Còn hàng"
+  },
+  {
+    "id": 4,
+    "name": "Good Item 4",
+    "desc": "A Very good Item",
+    "price": "1475",
+    "status": "Còn hàng"
+  },
+  {
+    "id": 5,
+    "name": "Good Item 5",
+    "desc": "A Very good Item",
+    "price": "1399",
+    "status": "Còn hàng"
+  },
+  {
+    "id": 6,
+    "name": "Good Item 6",
+    "desc": "A Very good Item",
+    "price": "1299",
+    "status": "Còn hàng"
+  }
+]
