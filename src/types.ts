@@ -1,16 +1,14 @@
 export type Items = {
   id: number;
   name: string;
-  description: string;
-  price: number;
+  content: string;
+  topic: string;
   category: string;
-  count: number;
 };
 
 export type ItemsOmit = {
   name: string;
-  description: string;
-  price: number;
+  content: string;
+  topic: string;
   category: string;
-  count: number;
 }

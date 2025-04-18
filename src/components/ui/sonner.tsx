@@ -3,7 +3,7 @@ import { Toaster as Sonner, ToasterProps } from "sonner"
 export const Toaster = ({ ...props }: ToasterProps) => {
   return (
     <Sonner
-      theme={"system"}
+      theme="system"
       className="toaster group"
       style={
         {

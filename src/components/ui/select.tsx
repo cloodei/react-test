@@ -33,12 +33,6 @@ function Select({ className, children, selectClass, ...props }: SelectType) {
   );
 };
 
-// function Select({
-//   ...props
-// }: React.ComponentProps<typeof SelectPrimitive.Root>) {
-//   return <SelectPrimitive.Root data-slot="select" {...props} />;
-// }
-
 function SelectGroup({
   ...props
 }: React.ComponentProps<typeof SelectPrimitive.Group>) {
